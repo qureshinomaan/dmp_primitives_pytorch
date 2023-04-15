@@ -7,3 +7,4 @@ Tools for using motion primitives like Dynamic Motion Primitives or Differentiab
 - [ ] Code differentiable Linear Dynamic Systems (dLDS).
 - [ ] CEM optimization for dLDS.
 - [ ] Neural output code for training dLDS and DMPs. 
+- [ ] A very simple colab tutorial for introducing these primitives.
