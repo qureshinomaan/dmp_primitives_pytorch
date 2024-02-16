@@ -4,7 +4,7 @@ Tools for using motion primitives like Dynamic Motion Primitives or Differentiab
 ## TODOs
 - [x] Code the DMP part in a interpretable way. 
 - [x] Batched CEM optimization for DMPs
-- [ ] Code differentiable Linear Dynamic Systems (dLDS).
+- [x] Code differentiable Linear Dynamic Systems (dLDS).
 - [ ] Code Cubic Splines
 - [ ] CEM optimization for dLDS and cubic splines.
 - [ ] Neural output code for training dLDS, splines and DMPs. 
